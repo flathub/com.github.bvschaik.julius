@@ -28,12 +28,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/bvschaik/julius/archive/v1.3.0.tar.gz",
-                    "sha256": "8dddbf27d6f54217d9c43f3d2386b7d76f1f07e18b95c3b15ce5bc6c6830bdfa"
-                },
-                {
-                    "type": "patch",
-                    "path": "metainfo.patch"
+                    "url": "https://github.com/bvschaik/julius/archive/v1.3.1.tar.gz",
+                    "sha256": "7ffbee8f05c6e4b03615853b366c4e3a7037e22c63929fdeae1bedb1f1ebea73"
                 }
             ]
         }
