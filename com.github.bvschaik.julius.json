@@ -13,23 +13,13 @@
     "command": "julius",
     "modules": [
         {
-            "name": "xprop",
-            "sources": [
-                {
-                    "type": "archive",
-                    "url": "https://xorg.freedesktop.org/archive/individual/app/xprop-1.2.4.tar.bz2",
-                    "sha256": "8c77fb096e46c60032b7e2bde9492c3ffcc18734f50b395085a5f10bfd3cf753"
-                }
-            ]
-        },
-        {
             "name": "julius",
             "buildsystem": "cmake-ninja",
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/bvschaik/julius/archive/v1.3.1.tar.gz",
-                    "sha256": "7ffbee8f05c6e4b03615853b366c4e3a7037e22c63929fdeae1bedb1f1ebea73"
+                    "url": "https://github.com/bvschaik/julius/archive/v1.4.0.tar.gz",
+                    "sha256": "034843ebe048a82ccd77dcc1ae54a3b2c797e4a10075be43dff4875e6183cceb"
                 }
             ]
         }
