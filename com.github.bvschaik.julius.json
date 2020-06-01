@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://github.com/bvschaik/julius/archive/v1.4.0.tar.gz",
-                    "sha256": "034843ebe048a82ccd77dcc1ae54a3b2c797e4a10075be43dff4875e6183cceb"
+                    "url": "https://github.com/bvschaik/julius/archive/v1.4.1.tar.gz",
+                    "sha256": "0ac0cbd5bc562c61eba3fc552f92a94e9f2189566ccbc0e62f71f3dde6962cb1"
                 }
             ]
         }
