@@ -1,7 +1,7 @@
 {
     "app-id": "com.github.bvschaik.julius",
     "runtime": "org.freedesktop.Platform",
-    "runtime-version": "23.08",
+    "runtime-version": "25.08",
     "sdk": "org.freedesktop.Sdk",
     "finish-args": [
         "--filesystem=home",
@@ -16,6 +16,9 @@
         {
             "name": "julius",
             "buildsystem": "cmake-ninja",
+            "config-opts": [
+                "-DCMAKE_POLICY_VERSION_MINIMUM=3.5"
+            ],
             "sources": [
                 {
                     "type": "archive",
